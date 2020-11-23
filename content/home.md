@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Home"
 [[blocks]]
 background_image = "/uploads/dscf5619.jpg"
