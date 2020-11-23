@@ -4,3 +4,9 @@
 [submodule "themes/sawmill"]
 	path = themes/sawmill
 	url = https://github.com/forestryio/sawmill.git
+[submodule "themes/educenter"]
+	path = themes/educenter
+	url = https://github.com/themefisher/educenter-hugo
+[submodule "themes/hugo-hero-theme"]
+	path = themes/hugo-hero-theme
+	url = https://github.com/zerostaticthemes/hugo-hero-theme
